@@ -1,0 +1,27 @@
+
+.buttonClass {
+    font-size:15px;
+    font-family:Arial Black;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:rgb(214, 160, 88);
+    border-color:rgba(255, 255, 255, 1);
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+   
+    padding: 2%;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#f6f6f6, #ffffff);
+  }
+    form{
+        display: block;
+        justify-content: center;
+        right: -30%;
+    }            
